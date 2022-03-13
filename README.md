@@ -1,0 +1,2 @@
+# thuchanh
+thuc hanh git
