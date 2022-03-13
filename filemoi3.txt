@@ -1,3 +1,0 @@
-File moi 3
-Thêm nội dung ở client
-Thêm nội dung o server
